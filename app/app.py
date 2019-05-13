@@ -33,10 +33,7 @@ def extention():
                 number = number + 1
             else:
                 number = number + 1
-        # for i in range(len(my_list)):
-        #     my_dict[i] = my_list[i]
 
-        # json_new = json.dumps(my_dict)
         return repr(my_string)
 
 
